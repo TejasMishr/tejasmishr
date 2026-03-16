@@ -51,7 +51,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ![](https://github-profile-trophy.vercel.app/?username=tejasmishr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<table>
+<!-- <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
@@ -71,7 +71,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 
